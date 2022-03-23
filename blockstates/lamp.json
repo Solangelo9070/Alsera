@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "clicked=false": {"model": "alsera:block/lamp_off"},
-    "clicked=true": {"model": "alsera:block/lamp_on"}
-  }
-}
