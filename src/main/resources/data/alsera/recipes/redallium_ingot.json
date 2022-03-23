@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "redallium_ingot",
+  "ingredients": [
+    {
+      "item": "alsera:redallium_block"
+    }
+  ],
+  "result": {
+    "item": "alsera:redallium_ingot",
+    "count": 9
+  }
+}

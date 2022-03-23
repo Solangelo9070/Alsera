@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "alsor_ingot",
+  "ingredients": [
+    {
+      "item": "alsera:alsor_block"
+    }
+  ],
+  "result": {
+    "item": "alsera:alsor_ingot",
+    "count": 9
+  }
+}

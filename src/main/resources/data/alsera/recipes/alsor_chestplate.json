@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "alsera:alsor_ingot"
+    }
+  },
+  "result": {
+    "item": "alsera:alsor_chestplate"
+  }
+}

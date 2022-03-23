@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    "-X-"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "-": {
+      "item": "alsera:alsor_ingot"
+    },
+    "X": {
+      "item": "alsera:magic_dust"
+    }
+  },
+  "result": {
+    "item": "alsera:metal_detector"
+  }
+}

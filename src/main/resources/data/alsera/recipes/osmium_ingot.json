@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "osmium_ingot",
+  "ingredients": [
+    {
+      "item": "alsera:osmium_block"
+    }
+  ],
+  "result": {
+    "item": "alsera:osmium_ingot",
+    "count": 9
+  }
+}

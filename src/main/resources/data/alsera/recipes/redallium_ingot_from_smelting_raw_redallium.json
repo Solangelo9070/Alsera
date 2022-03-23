@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "alsor_ingot",
+  "ingredient": {
+    "item": "alsera:raw_redallium"
+  },
+  "result": "alsera:redallium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "alsera:metal_detector"
+    },
+    "title": "Beep Beep BEEP",
+    "description": "Obtain a Metal Detector",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "alsera:alsor_ingot",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alsera:metal_detector"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "alsera:blocks/data_tablet"
+    ],
+    "experience": 100
+  }
+}

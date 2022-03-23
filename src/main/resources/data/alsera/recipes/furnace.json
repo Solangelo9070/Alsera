@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "alsera:slate_materials"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

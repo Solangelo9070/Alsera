@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "alsera:raw_redallium"
+    }
+  },
+  "result": {
+    "item": "alsera:raw_redallium_block"
+  }
+}

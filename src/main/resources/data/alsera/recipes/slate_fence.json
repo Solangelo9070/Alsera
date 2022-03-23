@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "slate_fence",
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "key": {
+    "W": {
+      "item": "alsera:slate"
+    },
+    "#": {
+      "item": "alsera:slate_rod"
+    }
+  },
+  "result": {
+    "item": "alsera:slate_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "alsera:redallium_nugget"
+    }
+  },
+  "result": {
+    "item": "alsera:redallium_ingot"
+  }
+}

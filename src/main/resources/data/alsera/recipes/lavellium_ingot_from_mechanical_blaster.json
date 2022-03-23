@@ -1,0 +1,14 @@
+{
+  "type": "alsera:mechanical_blasting",
+  "ingredients": [
+    {
+      "item": "alsera:alsor_ingot"
+    },
+    {
+      "item": "alsera:redallium_ingot"
+    }
+  ],
+  "output": {
+    "item": "alsera:lavellium_ingot"
+  }
+}

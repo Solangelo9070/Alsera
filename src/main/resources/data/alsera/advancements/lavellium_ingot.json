@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "alsera:lavellium_ingot"
+    },
+    "title": "Lavellium",
+    "description": "You got a new metal!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "alsera:alsor_ingot",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alsera:lavellium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "alsera:blocks/osmium_ore"
+    ],
+    "experience": 100
+  }
+}

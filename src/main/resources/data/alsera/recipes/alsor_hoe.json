@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "alsera:alsor_ingot"
+    }
+  },
+  "result": {
+    "item": "alsera:alsor_hoe"
+  }
+}

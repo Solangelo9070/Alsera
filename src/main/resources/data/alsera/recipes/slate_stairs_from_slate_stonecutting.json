@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "alsera:slate"
+  },
+  "result": "alsera:slate_stairs",
+  "count": 1
+}

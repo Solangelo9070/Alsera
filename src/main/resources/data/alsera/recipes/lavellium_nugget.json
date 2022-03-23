@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "osmium_ingot",
+  "ingredients": [
+    {
+      "item": "alsera:lavellium_ingot"
+    }
+  ],
+  "result": {
+    "item": "alsera:lavellium_nugget",
+    "count": 9
+  }
+}

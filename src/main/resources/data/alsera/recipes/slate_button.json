@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alsera:slate"
+    }
+  ],
+  "result": {
+    "item": "alsera:slate_button"
+  }
+}
