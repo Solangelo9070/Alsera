@@ -1,0 +1,24 @@
+{
+  "metal_detector_found_ore": {
+    "subtitle": "sounds.alsera.metal_detector_found_ore",
+    "sounds": [
+      "alsera:metal_detector_found_ore"
+    ]
+  },
+  "the_beginning": {
+    "sounds": [
+      {
+        "name": "alsera:the_beginning",
+        "stream": true
+      }
+    ]
+  },
+  "end_of_an_era": {
+    "sounds": [
+      {
+        "name": "alsera:end_of_an_era",
+        "stream": true
+      }
+    ]
+  }
+}
