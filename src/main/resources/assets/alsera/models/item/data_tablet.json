@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alsera:item/data_tablet_off"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "alsera:on": 1
+      },
+      "model": "alsera:item/data_tablet_on"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:itemitem/generated",
+  "textures": {
+    "layer0": "alsera:block/cerewood_sapling"
+  }
+}
