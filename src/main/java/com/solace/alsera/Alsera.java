@@ -14,8 +14,8 @@ import com.solace.alsera.screen.MechanicalBlasterScreen;
 import com.solace.alsera.screen.ModMenuTypes;
 import com.solace.alsera.sound.ModSounds;
 import com.solace.alsera.util.ModItemProperties;
-//import com.solace.alsera.world.dimensions.ModDimensions;
-//import com.solace.alsera.world.oregen.Ores;
+import com.solace.alsera.world.dimensions.ModDimensions;
+import com.solace.alsera.world.oregen.Ores;
 import net.minecraft.client.gui.screens.MenuScreens;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
@@ -84,8 +84,8 @@ public class Alsera
             ((FlowerPotBlock) Blocks.FLOWER_POT).addPlant(ModBlocks.PROTEA_ARUM.getId(), ModBlocks.POTTED_PROTEA_ARUM);
             MenuScreens.register(ModContainers.FURNACE_GENERATOR.get(), FurnaceGeneratorScreen::new);
             MenuScreens.register(ModContainers.FURNACE_GENERATOR_L2.get(), FurnaceGeneratorL2Screen::new);
-            //ModDimensions.register();
-            //Ores.registerConfiguredFeatures();
+            ModDimensions.register();
+            Ores.registerConfiguredFeatures();
         });
     }
 }
