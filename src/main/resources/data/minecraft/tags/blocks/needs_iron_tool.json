@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "alsera:alsor_block",
+    "alsera:alsor_ore",
+    "alsera:deepslate_alsor_ore",
+    "alsera:raw_alsor_block",
+    "alsera:redallium_block",
+    "alsera:redallium_ore",
+    "alsera:raw_redallium_block",
+  ]
+}

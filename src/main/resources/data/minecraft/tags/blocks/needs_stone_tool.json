@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+   "alsera:slate",
+    "alsera:cobbled_slate",
+    "alsera:slate_bricks",
+    "alsera:osmium_block",
+    "alsera:osmium_ore",
+    "alsera:deepslate_osmium_ore",
+    "alsera:raw_osmium_block"
+  ]
+}
