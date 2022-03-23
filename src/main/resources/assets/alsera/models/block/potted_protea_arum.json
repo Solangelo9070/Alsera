@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:lock/flower_pot_cross",
+  "textures": {
+    "plant": "alsera:block/protea_arum"
+  }
+}

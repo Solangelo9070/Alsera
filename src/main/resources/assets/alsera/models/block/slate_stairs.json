@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "alsera:block/slate",
+    "top": "alsera:block/slate",
+    "side": "alsera:block/slate"
+  }}
