@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "alsera:block/cerewood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "alsera:block/cerewood_log"
+    },
+    "axis=z": {
+      "model": "alsera:block/cerewood_log_horizontal",
+      "x": 90
+    }
+  }
+}
