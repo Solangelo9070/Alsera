@@ -1,7 +1,7 @@
 package com.solace.alsera.block.custom;
 
-//import com.solace.alsera.varia.Tools;
-//import com.solace.alsera.world.dimensions.ModDimensions;
+import com.solace.alsera.varia.Tools;
+import com.solace.alsera.world.dimensions.ModDimensions;
 import net.minecraft.core.BlockPos;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.server.level.ServerLevel;
@@ -27,7 +27,7 @@ public class DimensionalRiftContainerBlock extends Block {
         return SHAPE;
     }
 
-    /*@Override
+    @Override
     public void entityInside(BlockState state, Level level, BlockPos pos, Entity entity) {
         if (entity instanceof ServerPlayer player) {
             if (level.dimension().equals(ModDimensions.BEGINNING)) {
@@ -42,4 +42,4 @@ public class DimensionalRiftContainerBlock extends Block {
          ServerLevel world = player.getServer().getLevel(id);
         Tools.teleport(player, world, new BlockPos(pos.getX(), pos.getY(), pos.getZ()), true);
     }
-*/}
+}
