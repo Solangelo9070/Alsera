@@ -1,0 +1,11 @@
+{
+  "type": "alsera:beginning",
+  "generator": {
+    "type": "alsera:beginning_chunkgen",
+    "settings": {
+      "base": 65,
+      "verticalvariance": 5,
+      "horizontalvariance": 8
+    }
+  }
+}
